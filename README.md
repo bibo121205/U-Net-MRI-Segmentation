@@ -66,14 +66,14 @@ U-Net_Segmentation/
 To get started, clone this repository to your local machine:
 
 ```bash
-   git clone https://github.com/bibo121205/U-Net-MRI-Segmentation.git
-   cd U-Net-MRI-Segmentation
+git clone https://github.com/bibo121205/U-Net-MRI-Segmentation.git
+cd U-Net-MRI-Segmentation
 ```
 
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -91,6 +91,6 @@ To get started, clone this repository to your local machine:
 To download programmatically:
 
 ```bash
-   pip install gdown
-   gdown --id 17Qed2G9bMsAAIxlhEc1lD6nyseH3DKXb
+pip install gdown
+gdown --id 17Qed2G9bMsAAIxlhEc1lD6nyseH3DKXb
 ```
