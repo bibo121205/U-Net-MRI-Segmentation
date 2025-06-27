@@ -84,6 +84,16 @@ To get started, clone this repository to your local machine:
    - Train the U-Net model
    - Evaluate segmentation performance
    - Generate predictions on test images
+4. You can access the pre-trained U-Net model weights here:
+
+[Download from Google Drive](https://drive.google.com/file/d/17Qed2G9bMsAAIxlhEc1lD6nyseH3DKXb/view?usp=drive_link)
+
+To download programmatically:
+
+```bash
+   pip install gdown
+   gdown --id 17Qed2G9bMsAAIxlhEc1lD6nyseH3DKXb
+```
 
 ## Model
 
