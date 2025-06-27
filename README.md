@@ -94,15 +94,3 @@ To download programmatically:
    pip install gdown
    gdown --id 17Qed2G9bMsAAIxlhEc1lD6nyseH3DKXb
 ```
-
-## Model
-
-The project implements a U-Net architecture for semantic segmentation of brain tumors. The model is trained to identify FLAIR abnormalities in brain MR images and produces binary segmentation masks.
-
-## Results
-
-The trained model weights are saved in `unet.h5` and can be loaded for inference on new brain MR images.
-
-## Dataset Source
-
-This project uses the LGG Segmentation Dataset available on Kaggle, which contains brain MR images from The Cancer Imaging Archive (TCIA) with corresponding segmentation masks for FLAIR abnormalities. 
