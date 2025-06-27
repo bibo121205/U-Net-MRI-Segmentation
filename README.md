@@ -62,6 +62,14 @@ U-Net_Segmentation/
 ## Installation
 
 1. Clone the repository
+
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/bibo121205/U-Net-MRI-Segmentation.git
+cd U-Net-MRI-Segmentation
+```
+
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
