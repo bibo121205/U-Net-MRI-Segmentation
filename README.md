@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Ensure the dataset is properly organized in the `kaggle_3m/` directory
+1. Ensure the dataset is properly organized in the `{dirname}/` directory
 2. Open `main.ipynb` in Jupyter Notebook or JupyterLab
 3. Run the cells sequentially to:
    - Load and preprocess the dataset
